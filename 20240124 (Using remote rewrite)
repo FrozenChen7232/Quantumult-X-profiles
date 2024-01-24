@@ -182,13 +182,13 @@ https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf, tag=Applet
 https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf, tag=Youtube, update-interval=172800, opt-parser=false, enabled=true
 
 #微信公众号去广告
-https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/WeChat.conf，tag=Wechat, update-interval=172800, opt-parser=false, enabled=true
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/WeChat.conf, tag=Wechat, update-interval=172800, opt-parser=false, enabled=true
 
 #百度贴吧去广告
-https://github.com/app2smile/rules/raw/master/module/tieba-qx.conf，tag=Tieba, update-interval=172800, opt-parser=false, enabled=true
+https://github.com/app2smile/rules/raw/master/module/tieba-qx.conf, tag=Tieba, update-interval=172800, opt-parser=false, enabled=true
 
 #网易云去广告
-https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Netease.conf，tag=NeteaseMusic, update-interval=172800, opt-parser=false, enabled=true
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Netease.conf, tag=NeteaseMusic, update-interval=172800, opt-parser=false, enabled=true
 
 
 
